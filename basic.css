@@ -1,0 +1,45 @@
+body
+{
+	background-image: url("images/water.jpeg.jpg");
+	border: 20%;
+	margin: 5% 0% 20% 5%;
+} /*body*/
+h1.first
+{
+	color: navy;
+	font-family; serif;
+	
+} /* h1.first */
+h2.second
+{
+	color: navy;
+} /* h2.second */
+p.first
+{
+	border: lightblue 2px;
+	color: black;
+	font-family: sans-serif;
+	text-align: left;
+	border-radius: 5px;
+	border-style: double;
+} /* p.first */
+p.second
+{
+	color: black;
+	font-family: sans-serif;
+	text-align: left;
+	border: lightblue 2px;
+	border-style: double;
+} /* p.second */
+h3.third
+{
+	color: navy;
+} /* h3.third */
+img {
+	height: 500px;
+	padding: 2px;
+	margin-right: 10px; 
+	border: lightblue 4px;
+	width: 700px;
+	border-style: inset;
+} /* img */
